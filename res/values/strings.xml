@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">九宫格</string>
+    <string name="title_activity_main">九宫格</string>
+    
+    <string name="main_btn_workbench">工作台</string>
+    <string name="main_btn_company">公司概况</string>
+    <string name="main_btn_zxl">执行力</string>
+    <string name="main_btn_manage">人才管理</string>
+    <string name="main_btn_record">员工档案</string>
+    <string name="main_btn_addlist">通讯录</string>
+    <string name="main_btn_placard">公告</string>
+    <string name="main_btn_myrecord">我的档案</string>
+    <string name="main_btn_set">设置</string>
+    
+    <string name="back">返  回</string>
+    <string name="more">更  多</string>
+</resources>
